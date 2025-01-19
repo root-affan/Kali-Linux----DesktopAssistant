@@ -1,0 +1,7 @@
+wikipedia
+pyautogui
+pyttsx3
+speechrecognition
+subprocess
+datetime
+webbrowser
